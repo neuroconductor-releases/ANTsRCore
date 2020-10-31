@@ -27,3 +27,6 @@ zzz_Comparison2\.R
 ^data-raw$
 ^codecov\.yml$
 ^\.github$
+^DESCRIPTION\.bak$
+^\./\.travis\.yml\.bak$
+^\./appveyor\.yml\.bak$
